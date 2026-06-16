@@ -1,2 +1,5 @@
 # github-achievement-lab-20260615
 Small scratch repo for harmless GitHub workflow experiments.
+
+This repository is intentionally tiny and temporary in spirit: it exists to
+exercise normal GitHub issue and pull request flows from Andy's account.
